@@ -6,10 +6,6 @@
 # 仅供交流与学习使用，请勿用于非法用途！
 
 插件里面利用到的exp均为网上搜集，不保证安全问题，请务必自主进行相关安全审查！
-# [English-version](https://github.com/pandasec888/taowu-cobalt-strike/tree/english)
-感谢[vcarus](https://twitter.com/h4ltorg)提供英文翻译支持
-
-Thanks to [vcarus](https://twitter.com/h4ltorg) for English translation support
 # 功能简介
 ### 公开版
 ![](img/pz.png)
@@ -40,7 +36,6 @@ Thanks to [vcarus](https://twitter.com/h4ltorg) for English translation support
 2.投稿红队相关原创技术文章、原创漏洞、原创工具三类中任意一类至邮箱：taowuopen@protonmail.com，经审核通过免付费邀请加入。
 
 作为回馈，星球内为成员提供梼杌(taowu-cobalt strike)完整版本(梼杌完整版将在知识星球内不定期更新)
-![](img/xingqiu.jpg)
 # 参考
 https://github.com/DeEpinGh0st/Erebus
 
