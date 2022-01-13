@@ -1,0 +1,192 @@
+Wiki  http://k8gege.org/Ladon
+https://mp.weixin.qq.com/s/GQBXCX1fiSLi6gKY3M-JcA
+
+0x001 网络资产收集
+
+多协议探测存活主机
+仅ICMP探测存活(快)
+Oxid多网卡主机探测
+多协议操作系统探测
+网站、标题、Banner
+智能网站CMS识别
+常见端口服务探测
+Shiro探测
+Cisco探测
+LDAP服务器探测
+FTP服务器探测
+枚举MSSQL服务器
+枚举共享资源
+
+0x002 系统信息探测
+
+SMB探测系统信息
+WMI探测系统信息
+NBT探测系统信息
+RDP探测系统信息
+SNMP探测系统信息
+MSSQL探测系统信息
+WINRM探测系统信息
+Exchange探测系统信息
+
+0x003 远程漏洞检测
+
+SMB永恒之蓝检测
+SMB永恒之黑检测
+Struts2漏洞检测
+Weblogic漏洞检测
+PhpStudy后门检测
+ActiveMQ漏洞检测
+Tomcat漏洞检测
+
+0x004 一键GetShell
+
+Exchange CVE-2020-0688
+Weblogic GetShell
+Tomcat GetShell
+
+0x005 网络密码嗅探
+
+FTP密码嗅探
+HTTP密码嗅探
+
+0x006 网络密码审计
+
+445端口SMB密码审计(Windows)
+135端口WMI密码审计(Windows)
+445端口SMB-HASH密码审计(Windows)
+135端口WMI-HASH密码审计(Windows)
+139端口NBT密码审计(Windows)
+5985端口Winrm密码审计(Windows)
+21端口FTP密码审计(多平台)
+5900端口VNC密码审计(多平台)
+389端口LDAP密码审计(Windows)
+1521端口Oracle数据库密码审计(多平台)
+1433端口SQL数据库密码审计(Windows)
+3306端口MYSQL数据库密码审计(多平台)
+7001端口Weblogic后台密码审计(多平台)
+Web端口Tomcat后台密码审计(多平台)
+Web端口401基础认证密码审计(多平台)
+22端口SSH密码审计(Linux_多平台)
+网络摄像头密码审计(401认证)
+
+0x007 本机执行
+
+sc服务执行(system权限)
+at计划任务(system权限)
+Runas(模拟用户执行)
+RunPS(无powershell执行)
+ForExec(循环执行命令)
+
+0x008 远程执行
+
+WinrmExec
+SshExec
+SmbExec
+PsExec
+AtExec
+WmiExec
+WmiExec2
+WinrmExec
+JspShell
+AspShell
+AspxShell
+PhpShell
+
+
+0x009 本地提权
+
+BypassUac
+eventvwr
+fodhelper
+computerdefaults
+sdclt
+slui
+
+BypassUac2
+GetSystem
+Runas
+ms16135
+BadPotato
+SweetPotato
+RDPHijack
+CVE-2021-1675
+
+0x010 自启动
+
+注册表自启动
+服务启动项
+
+0x011 3389远程桌面
+
+一键开启3389
+查看3389远程连接
+查看管理员组用户
+激活Administrator
+激活用户Guest
+远程桌面会话劫持
+
+0x012 远程下载
+
+Http文件下载
+FTP文件下载
+
+0x013 域(DC、LDAP)
+
+域内机器信息获取(域内)
+389端口LDAP服务器探测
+389端口LDAP密码审计
+CVE-2020-1472域控提权
+
+0x014 后门/木马查看
+
+注册表启动项
+系统却持DLL
+
+0x015 域名解析
+
+Domain2IP
+Host2IP
+
+0x016 端口转发
+
+netsh(系统自带)
+PortTran
+
+0x017 本机信息收集
+
+查看本机IP(内外网)
+当前用户、特权信息
+GUID、CPUID、DiskID
+基础信息(仅cmd获取)
+基础信息(含wmi获取)
+获取命令行参数
+获取进程详细信息
+查看IE代理信息
+查看本机命名管道
+查看3389远程连接
+查看USB使用记录
+查看管理员组用户
+查看最近访问文件
+查看安装.NET版本
+查看PowerShell版本
+查看已安装程序版本
+
+0x018 本机密码读取
+
+IIS站点密码
+CVE-2021-36934
+DumpLsass
+
+0x019 MSF/NC联动
+
+Shell_bind_tcp
+Shell_reverse_tcp
+Met_reverse_http
+Met_reverse_https
+Shell_reverse_icmp
+Shell_reverse_dns
+
+0x020 其它功能
+
+网站HTML源码查看
+
