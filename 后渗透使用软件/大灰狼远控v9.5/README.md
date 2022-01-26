@@ -1,13 +1,4 @@
-**重构和丰富了主机相关凭据获取、多级内网穿透、ZeroLogon 漏洞、免杀的 Mimikatz 和 Adduser 等功能**
-6
-​
-7
-**主要包含以下功能模块：**
-8
-​
+## 界面 
 9
-![image](static\20220126233931.png)
+![image](https://github.com/CnHack3r/Awesome-hacking-tools/blob/main/%E5%90%8E%E6%B8%97%E9%80%8F%E4%BD%BF%E7%94%A8%E8%BD%AF%E4%BB%B6/%E5%A4%A7%E7%81%B0%E7%8B%BC%E8%BF%9C%E6%8E%A7v9.5/static/20220126233931.png?raw=true)
 10
-​
-11
-**每个模块均在运行前添加了绿色分割线，方便定位回显信息，提高协作效率**
