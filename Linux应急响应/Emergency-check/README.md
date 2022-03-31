@@ -21,7 +21,7 @@ python3 main.py
 
 ## Run pic
 
-![image](https://github.com/chriskaliX/Emergency-check/blob/master/imgs/showpic.png)
+![image](https://github.com/CnHack3r/Awesome-hacking-tools/blob/main/Linux%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94/Emergency-check/imgs/showpic.png)
 
 ## Check list
 
